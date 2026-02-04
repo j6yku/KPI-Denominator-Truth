@@ -25,7 +25,7 @@ If you’ve ever seen any of these:
 - “Our model got better but customer complaints went up.”
 - “The funnel looks worse after we improved the product.”
 
-…there’s a good chance the KPI wasn’t lying because the numerator was wrong.
+…there’s a good chance the KPI wasn’t lying because the numerator was wrong. 
 
 It was lying because the denominator silently changed.
 
